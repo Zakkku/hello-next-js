@@ -34,6 +34,7 @@ export default function Home() {
       </div>
 
       <p>Brought to you by Zach in Japan</p>
+      <p>This is my first Next.js project 2023</p>
 
       <div className={styles.grid}>
         <a
